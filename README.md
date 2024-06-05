@@ -4,7 +4,6 @@
 - 👀 I’m interested in learning & coding with Java, Python, C, HTML & CSS
 - 🌱 I’m currently learning Advanced Java,Python,.NET,HTML & CSS.
 - 📫 How to reach me: my email- om.s.ugale@gmail.com
-- Connect with me on linkedin: https://www.linkedin.com/in/osugale/
 
 <!---
 --->
