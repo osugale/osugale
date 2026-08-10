@@ -25,8 +25,7 @@ Currently building REST APIs and working with Spring Boot, Spring Data JPA, MySQ
 ### Currently
 Building backend projects and preparing for Java / Spring Boot backend roles.
 
-- 
-- 📫 How to reach me: my email- om.s.ugale@gmail.com
+📫 How to reach me: my email- om.s.ugale@gmail.com
 
 <!---
 --->
